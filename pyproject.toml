@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "mai-python-labs-info"
+version = "0.1.0"
+description = "Examlpe project"
+authors = ["sakost <23290721+sakost@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
